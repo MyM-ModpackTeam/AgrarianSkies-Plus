@@ -1,0 +1,29 @@
+{
+  "mods": {
+    "1.6.4": {
+      "tabbychat": true,
+      "voxelboards": true,
+      "voxelcam": true,
+      "voxellib": true,
+      "voxelmenu": true,
+      "voxelplayer": true
+    },
+    "VoxelModPack11.1": {
+      "hdskinsandcapes": true,
+      "macros": true,
+      "tabbychat": true,
+      "voxelboards": true,
+      "voxelcam": true,
+      "voxelflight": true,
+      "voxelget": true,
+      "voxellib": true,
+      "voxelmap": true,
+      "voxelmenu": true,
+      "voxelplayer": true,
+      "voxelsnipergui": true,
+      "voxeltextures": true,
+      "voxelvision": true,
+      "wecui": true
+    }
+  }
+}
